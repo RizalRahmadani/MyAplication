@@ -12,6 +12,9 @@ class MainActivity : AppCompatActivity() {
 fun funNew(){
     var angkaSatu : Int
 }
+fun detail(){
+
+}
 
 
 
